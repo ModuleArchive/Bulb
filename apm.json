@@ -1,0 +1,6 @@
+{
+    "name": "Bulb",
+    "description": "A good gateway to comminucate",
+    "dependencies": {},
+    "softdeps": {}
+}
