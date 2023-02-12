@@ -1,6 +1,6 @@
 {
     "name": "Bulb",
-    "description": "A good gateway to comminucate",
+    "description": "A comminucation protocol that works between serials",
     "dependencies": {},
     "softdeps": {}
 }

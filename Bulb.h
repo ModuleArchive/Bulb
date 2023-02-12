@@ -1,4 +1,4 @@
-#include <Pkt.h>
+#include <Bulb/STPacket.h>
 
 #ifndef BULB_MAX_TIMEOUT
 #define BULB_MAX_TIMEOUT 2000
