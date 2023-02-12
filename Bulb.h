@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <Bulb/STPacket.h>
 
 #ifndef BULB_MAX_TIMEOUT

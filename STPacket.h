@@ -131,7 +131,7 @@ public:
 
     String get(String key)
     {
-        if (key != "" && key != NULL)
+        if (key != "")
         {
             for (int i = 0; i <= __length; i += 1)
             {
@@ -146,7 +146,7 @@ public:
 
     int indexOf(String val)
     {
-        if (val != "" && val != NULL)
+        if (val != "")
         {
             for (int i = 0; i <= __length; i += 1)
             {
@@ -161,7 +161,7 @@ public:
 
     int indexOfKey(String key)
     {
-        if (key != "" && key != NULL)
+        if (key != "")
         {
             for (int i = 0; i <= __length; i += 1)
             {
